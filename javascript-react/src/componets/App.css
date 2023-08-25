@@ -1,0 +1,55 @@
+.Card-Companents{
+    background-color: burlywood;
+}
+.Card-Companents{
+    width: 50%;
+    margin: auto;
+    text-align: centre;
+    border: 1px color black;
+    border-radius: 10px;
+    background-color: beige;
+}
+
+img{
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+nav{
+    text-align: center;
+}
+
+li{
+    border-right: 1px solid black;
+    color: white;
+    display:block
+}
+nav ul{
+    display: flex;
+    list-style: none;
+}
+
+nav ul li{
+padding: 10px 15px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black
+}
+
+
+p{
+    text-align: center;
+    font-size: 23px;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+    text-align: center;
+    font-size: 23px;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
